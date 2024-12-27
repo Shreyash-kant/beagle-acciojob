@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding:12px
+}
+.Top{
+    border:1px solid black;
+    padding: 12px;
+}
+.Top p{
+    margin-bottom: 22px;
+}
+.image_section, .Trivia{
+    margin-top: 12px;
+    
+}
+.img_container{
+    margin-bottom: 12px;
+}
+h1{
+    text-decoration: underline;
+    margin-bottom: 22px;
+    font-size: 2em;
+}
+.image_section img{
+    width: 300px;
+}
+.read_more{
+    text-decoration: none;
+}
+.Trivia ol{
+    margin-left: 12px;
+}
+
+
